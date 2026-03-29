@@ -1,0 +1,617 @@
+case_id,text,english_translation,french_description,primary_symptom,urgency,severity_score,severity_label,source_type,annotator_agreement,data_split,notes
+LMT-L385,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M003,Nazali na mpema moke pe nazali na kosukosu,Shortness of breath and cough,,Dyspnea,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L132,Crampes ya moke na loboko,Mild arm twitching,Légères crampes au bras,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L333,Mongongo na nga ezali na mpasi moke,Throat mildly aching,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L270,Nazali na bobangi moke kasi nazali koyoka malamu,Slightly anxious but feeling fine,,Anxiety,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L305,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-L243,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L353,Nazali na kosukosu ya moke pe mpema moke,Mild cough and mild breathing,,Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-E030,"Makila mingi ezali kobima na libumu na nga, nazali na kolemba","A lot of blood from my abdomen, weakening",,Internal Hemorrhage,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L022,Nazali koyoka miso kokwanza mwa moke,Mild eye twitch,Légères démangeaisons oculaires,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M068,Nazali na fiɛvɛrɛ ya 38.5°C pe nazali na kolemba makasi,Fever 38.5°C and very weak,,High Fever,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L084,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M051,Nazali na kosukosu ya lokɔtá pe makila moke,Coughing mucus and a little blood,,Hemoptysis,Moderate,4,Serious,Translated,3/3,Val,Native speaker validated
+LMT-L026,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M045,Nazali na kosukosu ya lokɔtá pe fiɛvɛrɛ ya bambula misato,Coughing mucus and fever for three days,,Respiratory Infection,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-M103,Mwasi ya zemi azali na mapɛpɛ pe azali koyoka mabe,Pregnant woman dizzy and feeling unwell,,Obstetric Emergency,Moderate,4,Serious,Translated,3/3,Val,Native speaker validated
+LMT-L105,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L139,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L358,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L303,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L389,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M073,Nazali na kosukosu makasi pe monɔkɔ na nga ezali kobimisa makila moke,Severe cough and mouth releasing a little blood,,Hemoptysis,Moderate,4,Serious,Translated,3/3,Test,Native speaker validated
+LMT-L260,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L213,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M066,Mama ya bambula 45 azali na tension pe mpasi makasi ya miso,45-year-old woman with hypertension and severe eye pain,,Hypertension,Moderate,4,Serious,Community-Generated,3/3,Train,Native speaker validated
+LMT-L151,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L153,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M069,Miso na nga ezali na mpasi makasi pe nazali komona mabe,Eyes beating hard and vision impaired,,Eye Condition,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L300,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E113,Nazali na mpasi ya ntolo oyo ekómi banda lelo pe ezali kobeta pe kokende,"Chest pain that started today, coming and going","Douleur thoracique débutée aujourd'hui, intermittente",Cardiac Emergency,Emergency,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-E022,Mwana azali na mpema te pe elongi na ye ezali kobongola,Child not breathing and turning blue,,Infant Resp Emergency,Emergency,5,Critical,Community-Generated,3/3,Test,Native speaker validated
+LMT-L323,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L442,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L131,Fievre moke mpe pasi moke na liboko,Mild fever and slight arm pain,Légère fièvre et légère douleur au bras,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L432,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L030,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-M076,Mwasi ya zemi azali na mapɛpɛ pe azali koyoka mabe,Pregnant woman dizzy and feeling unwell,,Obstetric Emergency,Moderate,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-M015,Nazali na fiɛvɛrɛ pe boloko oyo ekómi mabe mpenza,Fever and diarrhea that has gotten very bad,,Severe Diarrhea,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L292,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L098,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M057,Nazali na kosukosu makasi ya lokɔtá pe fiɛvɛrɛ,Severe coughing mucus and fever,,Respiratory Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-M050,Nazali komilinga moke pe mpasi ezali koya,Slightly fainting and pain hitting,,Severe Weakness,Moderate,3,Moderate,Community-Generated,3/3,Test,Native speaker validated
+LMT-L312,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M039,"Nazali kolɛla, nazali na fiɛvɛrɛ, pe bilamba na nga ezali na mayi","Vomiting, fever, and wet clothes",,High Fever,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L387,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M070,Nzoto na nga ezali kobeta pe nazali na fiɛvɛrɛ ya 39°C,Body beating and fever 39°C,,High Fever,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-L418,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L383,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E011,Mwasi ya zemi azali kobimisa mwana liboso ya ntango,Pregnant woman giving birth before time,,Premature Labour,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L170,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L043,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L095,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-E107,Mobali ya bambula 60 azali na mapɛpɛ pe azali koloba mabe banda lelo ntongo,60-year-old man dizzy and slurring words since this morning,Homme de 60 ans étourdi et parole confuse depuis ce matin,Head Trauma,Emergency,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L239,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Synthetic,3/3,Test,Native speaker validated
+LMT-M054,Nazali na fiɛvɛrɛ ya bambula misato pe nzoto na nga ezali kobeta,Fever for 3 days and body aching,,High Fever,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L162,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L044,Nzoto na nga ezali na mingayi ya moke,Body has mild itching,,Skin Irritation,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L238,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L039,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L258,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L182,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L088,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M052,Nazali na fiɛvɛrɛ ya 39.2°C pe nazali kolɛla makasi,Fever 39.2°C and severe vomiting,,High Fever,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-M092,Nazali kolɛla oyo etɛlɛmaka te ya bambula mibale,Vomiting that won't stop for two days,,Severe Vomiting,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L208,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L119,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M084,Mwana azali na fiɛvɛrɛ ya 39.5°C pe azali kolɛla,Child with fever 39.5°C and vomiting,,Pediatric Fever,Moderate,3,Moderate,Community-Generated,3/3,Test,Native speaker validated
+LMT-L313,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-M036,Nazali na kosukosu oyo ezali kobimisa makila moke pe mpasi ya moto,Cough releasing a little blood and headache,,Hemoptysis,Moderate,4,Serious,Translated,3/3,Train,Native speaker validated
+LMT-L368,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L204,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Synthetic,3/3,Test,Native speaker validated
+LMT-L227,Nazali kolala mabe pe nazali koyoka kolemba,Sleeping badly and feeling tired,,Fatigue,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L041,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L025,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E024,"Mpasi makasi ya moto pe komilinga, nazali na nguya te","Severe headache and fainting, no strength at all",,Hypertensive Crisis,Emergency,5,Critical,Synthetic,3/3,Val,Native speaker validated
+LMT-L446,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L073,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L065,Nazali na bobangi moke kasi nazali koyoka malamu,Slightly anxious but feeling fine,,Anxiety,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L390,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L028,Libumu na nga ezali kobaluka moke sima ya kolya,Mild bloating after eating,,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L020,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L384,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E026,Mobɛlɛ ekataki nga na nzela pe nazali na makila mingi,"Knife cut me on the road, lots of blood",,Trauma,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L295,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L064,Mongongo na nga ezali na mpasi moke,Throat mildly aching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-E007,"Nazali na fiɛvɛrɛ makasi mpenza, kolemba makasi, pe kosukosu ya makila","Very high fever, very weak, coughing blood",,Severe Sepsis,Emergency,5,Critical,Community-Generated,3/3,Val,Native speaker validated
+LMT-L402,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L156,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L126,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-M102,"Nazali na fiɛvɛrɛ, kosukosu, pe nzoto na nga ezali na mapɔ ya peli","Fever, cough, and skin rash",,Viral Arthralgia,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-L274,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L185,Nazali na boloko moke kasi nazali koyikama yango,Mild diarrhea but manageable,,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L396,Mwana azali na fiɛvɛrɛ moke 37.3°C kasi azali kosɛka pe kolɛla,Child has mild fever 37.3°C but laughing and playing,,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-M107,Libumu na nga ezali kobomba pe kobeta makasi,Abdomen swollen and beating hard,,Abdominal Pain,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-M022,Libumu ya nse na nga ezali kobeta makasi likolo ya mosala,Lower abdomen beating hard from work,,Abdominal Pain,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L032,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L125,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L273,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L212,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L316,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L381,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M024,Mokongo na nga ezali na mpasi makasi pe nazali kotambola mabe,Back hurting hard and walking badly,,Back Pain,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-L123,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L245,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L142,Litoyi na nga ezali kobeta moke tango nazali kolala,Mild ear ringing when sleeping,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M014,Nazali na malariya pe fiɛvɛrɛ na nga ezali likoló,I have malaria and my fever is high,,Malaria,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L100,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L445,"Nazali kolya mingi te, nzoto eza mwa moke (mukie) malamu","Eating little, body feels mostly okay","Je mange peu, le corps va à peu près bien",Appetite Loss,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L091,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-L194,Nazali na mpasi moke ya moto likolo ya kobangabanga,Mild headache from anxiety,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L403,Moto na nga ezali kobetabeta moke,Mild head twitching,Légères contractions à la tête,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L354,Nazali na mpasi moke ya moto likolo ya kobangabanga,Mild headache from anxiety,,Mild Headache,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L366,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L277,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L056,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E039,Nazali na mpema mabe mpenza pe miso ezali kobungabungana,Very severe breathing difficulty and blurry eyes,,Respiratory Arrest,Emergency,5,Critical,Community-Generated,3/3,Test,Native speaker validated
+LMT-L330,Moto na nga ezali kobetabeta moke,Mild head twitching,Légères contractions à la tête,Mild Headache,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L439,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L428,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-E104,Nazali na mpasi moke ya ntolo kasi ezali ya sika mpe nalobi te na monganga,Mild chest pain but it is new and I never had it before,"Légère douleur thoracique nouvelle, jamais ressentie auparavant",Cardiac Emergency,Emergency,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L231,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L133,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L248,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-E003,Mwasi ya zemi azali na kolemba makasi mpenza pe mapɛpɛ makasi,Pregnant woman extremely weak with severe dizziness,,Obstetric Shock,Emergency,5,Critical,Community-Generated,3/3,Test,Native speaker validated
+LMT-L345,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L055,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L230,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M075,"Nazali kolɛla, nazali na fiɛvɛrɛ, pe bilamba na nga ezali na mayi","Vomiting, fever, and wet clothes",,High Fever,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L003,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E042,Nazali koyoka motɔ oyo ekɔtaki na moto na nga pe miso,Fire entered my head and eyes,,Heat Stroke,Emergency,5,Critical,Community-Generated,3/3,Val,Native speaker validated
+LMT-M058,Nazali na boloko oyo ezali na makila moke,Diarrhea with a little blood,,Bloody Diarrhea,Moderate,4,Serious,Community-Generated,3/3,Val,Native speaker validated
+LMT-L221,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L209,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M034,Nazali na mpasi makasi ya libumu ya nse pe kobimisa lokɔtá mingi,Severe lower abdominal pain and lots of mucus,,Abdominal Pain,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L010,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-M098,Nazali na mpasi pe bolɔtɔ sima ya kopɛsama na nyama ya zamba,Pain and numbness after being bitten by wild animal,,Animal Bite,Moderate,4,Serious,Translated,3/3,Val,Native speaker validated
+LMT-L256,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L362,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L112,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L229,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L287,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L136,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L210,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Synthetic,3/3,Val,Native speaker validated
+LMT-E035,Mwana amɛlɛki likama pe azali na mpema te,Child swallowed poison and not breathing,,Poisoning,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L433,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E010,Mwasi azali comilinga pe mpema na ye ekómi kofanda,Woman fainting and breathing stopping,,Respiratory Arrest,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L206,"Mwana azali na mpasi moke ya litoyi moko, azali kolɛla moke","Child beats one ear, mild crying",,Tinnitus,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M080,Mokongo na nga ezali na mpasi makasi pe nazali kotambola mabe,Back hurting hard and walking badly,,Back Pain,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L393,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M019,Liboko na nga ekomi kobomba pe kobeta sima ya kobwɛa,Arm swollen and beating after falling,,Injury,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L373,Fievre moke mpe pasi moke na liboko,Mild fever and slight arm pain,Légère fièvre et légère douleur au bras,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L128,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M059,Mabɔkɔ na nga ezali bolɔtɔ pe nazali kopɛsa bolingo,Arms numb and I'm giving a hug (confused),,Periorbital Edema,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L259,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L321,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L051,Nazali na boloko moke kasi nazali koyikama yango,Mild diarrhea but manageable,,Mild GI Symptom,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-E100,"Mwana ya bambula mibale amɛlɛki kinini ya mopaya, kasi azali sɛkɛlɛ","2-year-old swallowed unknown pill, still playing","Enfant de 2 ans a avalé un médicament inconnu, joue encore",Chemical Ingestion,Emergency,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L219,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M006,Nazali na mpema moke pe mabɔkɔ mibale ezali bolɔtɔ,Shortness of breath and both arms numb,,Dyspnea,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L342,Moto na nga ezali kobetabeta moke,Mild head twitching,Légères contractions à la tête,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E021,Nabwɛi na esika ya likoló pe nazali na mpasi makasi ya moto,Fell from height and severe head pain,,Head Trauma,Emergency,5,Critical,Community-Generated,3/3,Val,Native speaker validated
+LMT-M065,Mwana azali na boloko oyo etɛlɛmaka te pe azali na kolemba,Child with unstoppable diarrhea and weakness,,Severe Diarrhea,Moderate,3,Moderate,Synthetic,3/3,Val,Native speaker validated
+LMT-E112,"Mwana ya bambula mibale amɛlɛki mafuta ya motuka, azali na kolɛla moke pe mapɛpɛ moke","2-year-old drank car oil, mild vomiting and mild dizziness","Enfant de 2 ans a bu de l'huile moteur, légères nausées et vertiges",Chemical Ingestion,Emergency,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-M061,Nazali kolɛla makasi pe libumu na nga ezali kobeta,Severe vomiting and abdomen beating,,Severe Vomiting,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-M047,Nazali na mpasi makasi pe nazali kolala te,Great pain and not sleeping,,Severe Pain,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L405,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-M029,Nazali na mpasi makasi ya moto oyo ezali pe kolɛla pe mapɛpɛ,Severe headache with vomiting and dizziness,,Severe Headache,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-M104,Mwana ya bambula mibale azali na fiɛvɛrɛ ya 39°C pe azali kolɛla,2-year-old with fever 39°C and vomiting,,Pediatric Fever,Moderate,3,Moderate,Translated,3/3,Test,Native speaker validated
+LMT-L109,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L014,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M060,Nazali na diabète pe sukali na nga ya nzoto ezali likoló,I have diabetes and my sugar level is high,,Diabetes,Moderate,4,Serious,Synthetic,3/3,Test,Native speaker validated
+LMT-L360,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L189,Libumu na nga ezali kobaluka moke sima ya kolya,Mild bloating after eating,,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M089,Mabɔkɔ na nga ezali bolɔtɔ pe nazali kopɛsa bolingo,Arms numb and I'm giving a hug (confused),,Periorbital Edema,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L137,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L220,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L110,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M100,Nazali na mpema moke pe mabɔkɔ mibale ezali bolɔtɔ,Shortness of breath and both arms numb,,Dyspnea,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L009,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L265,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L215,Nazali na mpasi moke ya mosuni ya mokongo sima ya mosala ya kala,Mild back muscle pain after routine work,,Lumbar Pain,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L299,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L253,Nazali koyoka miso kokwanza mwa moke,Mild eye twitch,Légères démangeaisons oculaires,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L029,Litoyi na nga ezali kobeta moke tango nazali kolala,Mild ear ringing when sleeping,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M081,Libumu ya mwasi ya zemi ezali kobomba pe kobeta,Pregnant woman's stomach swollen and beating,,Obstetric Emergency,Moderate,4,Serious,Synthetic,3/3,Test,Native speaker validated
+LMT-E025,Motema na nga ezali kofanda pe nazali na kolemba makasi mpenza,My heart is stopping and I'm very weak,,Cardiac Arrest,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-M062,Libumu na nga ezali kobomba pe kobeta makasi,Abdomen swollen and beating hard,,Abdominal Pain,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L286,Nazali na kosukosu ya moke pe mpema moke,Mild cough and mild breathing,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E019,Libumu na nga ezali kobeta makasi mpenza pe ezali ngumu,Abdomen beating very hard and rigid,,Acute Abdomen,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L086,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L116,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L103,Fievre moke mpe pasi moke na liboko,Mild fever and slight arm pain,Légère fièvre et légère douleur au bras,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L002,"Nazali kolya mingi te, nzoto eza mwa moke (mukie) malamu","Eating little, body feels mostly okay","Je mange peu, le corps va à peu près bien",Appetite Loss,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L251,"Mwana azali na mpasi moke ya litoyi moko, azali kolɛla moke","Child beats one ear, mild crying",,Tinnitus,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L329,"Mwana azali na bolɔtɔ moke na miso, azali kolɛla te","Child has mild eye irritation, not crying",,Eye Strain,Low,1,Minimal,Synthetic,3/3,Val,Native speaker validated
+LMT-L224,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L196,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-E034,"Nzoto na nga ezali kobetabeta makasi, fiɛvɛrɛ ya 40.5°C, pe nazali komilinga","Body severely twitching, fever 40.5°C, and fainting",,Severe Sepsis,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L163,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L046,Nazali na mpasi moke ya mosuni ya mokongo sima ya mosala ya kala,Mild back muscle pain after routine work,,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L027,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L290,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-M090,Nazali komilinga moke pe mpasi ezali koya,Slightly fainting and pain hitting,,Severe Weakness,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L424,"Mwana azali na bolɔtɔ moke na miso, azali kolɛla te","Child has mild eye irritation, not crying",,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M087,Nazali na kosukosu ya lokɔtá pe fiɛvɛrɛ ya bambula misato,Coughing mucus and fever for three days,,Respiratory Infection,Moderate,3,Moderate,Synthetic,3/3,Test,Native speaker validated
+LMT-L080,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L226,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L120,"Mwana azali na bolɔtɔ moke na miso, azali kolɛla te","Child has mild eye irritation, not crying",,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-E032,Libumu ya mwasi ya zemi ezali kobeta makasi,Pregnant woman abdomen beating hard,,Obstetric Emergency,Emergency,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-E018,Nazali na mpasi makasi ya moto pe motema na nga ezali kobeta makasi,Severe headache and heart beating hard,,Hypertensive Crisis,Emergency,5,Critical,Synthetic,3/3,Test,Native speaker validated
+LMT-L297,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-E028,Mwana aketaki na mayi pe azali na mpema te,Child drowned and not breathing,,Drowning,Emergency,5,Critical,Synthetic,3/3,Test,Native speaker validated
+LMT-L441,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E029,Nzoto na nga ezali na kolemba makasi sima ya komela likama,Body weakening severely after drinking poison,,Poisoning,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L410,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L160,Estomac na nga eza faible yango nazali kolya moke,"Stomach feels weak, eating little","Estomac faible, je mange peu",Appetite Loss,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L130,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L412,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E023,Motema na nga ezali kobeta ndenge mabe pe nazali na mpasi makasi,Heart beating erratically and in severe pain,,Arrhythmia,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L332,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L264,Litoyi na nga ezali kobeta moke tango nazali kolala,Mild ear ringing when sleeping,,Tinnitus,Low,1,Minimal,Synthetic,3/3,Test,Native speaker validated
+LMT-L408,Mongongo ezali ya kokufa ndambu,Slightly hoarse voice,Voix légèrement enrouée,Hoarseness,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L272,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-M088,Mongongo na nga ezali na mpasi makasi pe nazali kolya mabe,Throat hurting badly and eating poorly,,Tonsillitis,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L071,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L186,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L356,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L391,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L398,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M012,Nazali na kosukosu makasi pe monɔkɔ na nga ezali kobimisa makila moke,Severe cough and mouth releasing a little blood,,Hemoptysis,Moderate,4,Serious,Synthetic,3/3,Val,Native speaker validated
+LMT-E015,"Nazali na mpasi ya ntolo, kolemba pe mopepe ekɔtaka te","Chest pain, weakening and no air entering",,Cardiac Emergency,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-M046,Nazali kolɛla oyo etɛlɛmaka te ya bambula mibale,Vomiting that won't stop for two days,,Severe Vomiting,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L178,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L021,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L241,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E111,"Napɛsamaki na nyoka, liboko ekómi kobomba pe nazali koyoka bolɔtɔ ekola","Snake bit me, arm swelling and numbness spreading","Mordu par un serpent, bras qui gonfle et engourdissement progressif",Poisoning,Emergency,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L399,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-M053,Nazali na mpasi makasi ya moto oyo etɛlɛmaka te,Severe headache that won't stop,,Severe Headache,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-M056,Nazali na mpasi makasi ya mosuni ya moto pe kobetabeta,Severe head muscle pain and twitching,,Severe Headache,Moderate,3,Moderate,Translated,3/3,Test,Native speaker validated
+LMT-E109,Mwana ya bambula misato azali na fiɛvɛrɛ ya 38.5°C pe azali na convulsion moke ya ntango moke,3-year-old with fever 38.5°C and brief mild seizure episode,Enfant de 3 ans avec fièvre 38.5°C et épisode de convulsion brève,Febrile Seizure,Emergency,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-E106,"Mwana azali na kosukosu moke pe azali kolya te banda lobi, aboyi biloko nyonso",Child mild cough and refusing all food since yesterday,Enfant toux légère et refuse toute nourriture depuis hier,Infant Resp Emergency,Emergency,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L024,Estomac na nga eza faible yango nazali kolya moke,"Stomach feels weak, eating little","Estomac faible, je mange peu",Appetite Loss,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L070,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L240,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L082,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L102,Litoyi na nga ezali kobeta moke tango nazali kolala,Mild ear ringing when sleeping,,Tinnitus,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-M016,Nazali na fiɛvɛrɛ pe nzoto na nga ezali kobeta makasi,Fever and body beating hard,,High Fever,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L302,Mwana azali na fiɛvɛrɛ moke 37.3°C kasi azali kosɛka pe kolɛla,Child has mild fever 37.3°C but laughing and playing,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L061,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L197,Nazali na kolɛmba mpe nazali na mpongi ya koleka,Fatigue and sleeping a lot,Fatigue et sommeil excessif,Fatigue,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L232,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L283,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L089,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L179,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L380,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L397,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L375,Libumu na nga ezali kobaluka moke sima ya kolya,Mild bloating after eating,,Mild GI Symptom,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E038,Mwana ya bambula moko azali na fiɛvɛrɛ pe azali komilinga na molayi,1-year-old with fever and prolonged fainting,,Febrile Seizure,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-E027,Mwana amɛlɛki biloko pe azali na mpema mabe,Child swallowed objects and breathing badly,,Foreign Body Airway,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L448,Nzoto na nga ezali na mingayi ya moke,Body has mild itching,,Skin Irritation,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L244,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L006,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L334,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-M093,Liboko na nga ezali na makila pe mbeba ezali kobomba,Arm with blood and wound inflammation,,Wound Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L306,"Nazali na fiɛvɛrɛ moke, 37.5°C","Slight fever, 37.5°C","Légère fièvre, 37.5°C",Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L087,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L187,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L378,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L117,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-M002,Mwana azali kolɛla lisusu pe azali na fiɛvɛrɛ ya 38.7°C,Child vomiting again and fever 38.7°C,,Recurrent Pediatric Fever,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-E108,Mwasi ya zemi azali na tension ya likoló pe miso na ye ezali komona mpɔngɔ,Pregnant woman with high blood pressure and seeing spots,Femme enceinte avec tension élevée et vision trouble avec points,Obstetric Shock,Emergency,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-M041,Mwasi ya zemi azali na fiɛvɛrɛ ya 38.8°C pe azali kolɛla,Pregnant woman fever 38.8°C and vomiting,,Obstetric Emergency,Moderate,4,Serious,Translated,3/3,Train,Native speaker validated
+LMT-L361,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L367,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L423,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L308,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L278,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M077,Nazali kolɛla oyo etɛlɛmaka te ya bambula mibale,Vomiting that won't stop for two days,,Severe Vomiting,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L338,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L012,Moto na nga ezali kobetabeta moke,Mild head twitching,Légères contractions à la tête,Mild Headache,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L177,Nazali na bolɔtɔ moke na miso na ngai,Mild eye irritation,Légère irritation oculaire,Eye Strain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L392,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L431,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L122,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M027,Mwasi ya zemi azali na mpasi makasi ya libumu ya nse,Pregnant woman with severe lower abdominal pain,,Obstetric Emergency,Moderate,4,Serious,Community-Generated,3/3,Train,Native speaker validated
+LMT-E040,Motema na nga ezali kobeta nokinoki mpenza pe komona mabe mpenza,Heart racing very fast and vision severely impaired,,Cardiac Emergency,Emergency,5,Critical,Translated,3/3,Test,Native speaker validated
+LMT-L416,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L414,Mongongo na nga ezali na mpasi moke,Throat mildly aching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L101,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L016,Nazali na kosukosu ya moke na ntongo,Mild morning cough,Légère toux le matin,Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M021,Nazali na mawa makasi pe makanisi ya koboma nga moko ezali koya,Great sadness and thoughts of self-harm coming,,Mental Health Crisis,Moderate,4,Serious,Translated,3/3,Val,Native speaker validated
+LMT-L094,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E110,"Nazali na kosukosu ya makila moke banda lobi, nzoka nazali kotambola",Coughing small blood since yesterday but still walking,Crachat de sang depuis hier mais marche encore,Internal Hemorrhage,Emergency,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L359,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L407,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L149,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L317,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L050,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-M106,Nazali na bobangi mingi pe motema na nga ezali kobeta nokinoki,Very anxious and heart racing,,Anxiety,Moderate,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L382,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L192,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M096,Mbeba ya nzoto na nga ezali kobomba,Body wound looking up (infected),,Wound Infection,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-M025,Nazali na mpasi pe bolɔtɔ sima ya kopɛsama na nyama ya zamba,Pain and numbness after being bitten by wild animal,,Animal Bite,Moderate,4,Serious,Community-Generated,3/3,Train,Native speaker validated
+LMT-M017,"Nazali na fiɛvɛrɛ, kosukosu, pe nzoto na nga ezali na mapɔ ya peli","Fever, cough, and skin rash",,Viral Arthralgia,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L284,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L269,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L268,Nazali na mpasi moke ya moto likolo ya kobangabanga,Mild headache from anxiety,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L076,Moto na nga ezali kobetabeta moke,Mild head twitching,Légères contractions à la tête,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L004,"Nazali na fiɛvɛrɛ moke, 37.5°C","Slight fever, 37.5°C","Légère fièvre, 37.5°C",Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L214,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L301,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L254,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L420,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L173,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M033,Mwana azali na fiɛvɛrɛ ya 39.5°C pe azali kolɛla,Child with fever 39.5°C and vomiting,,Pediatric Fever,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L161,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L068,Nazali na mpasi moke ya moto likolo ya kobangabanga,Mild headache from anxiety,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E037,Mwana azali comilinga pe azali na convulsion ya liboko moko,Child fainting and having one-arm seizure,,Febrile Seizure,Emergency,5,Critical,Translated,3/3,Val,Native speaker validated
+LMT-L052,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L011,Crampes ya moke na loboko,Mild arm twitching,Légères crampes au bras,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L282,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M085,Mwana azali kolɛla lisusu pe azali na fiɛvɛrɛ ya 38.7°C,Child vomiting again and fever 38.7°C,,Recurrent Pediatric Fever,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-M001,Mwana azali na kolemba makasi pe azali kolya te,Child severely weak and not eating,,Malnutrition,Moderate,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-L111,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L081,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L413,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E041,Mwasi ya zemi azali na mapɛpɛ makasi pe nzoto na ye ezali kobetabeta,Pregnant woman severe dizziness and body shaking,,Obstetric Shock,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L138,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-E013,Mwana ya bambula minei azali na fiɛvɛrɛ ya 40.5°C pe azali na kolemba makasi,"4-year-old with fever 40.5°C, very weak",,Severe Pediatric Fever,Emergency,5,Critical,Community-Generated,3/3,Val,Native speaker validated
+LMT-L263,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L033,Mwana azali na fiɛvɛrɛ moke 37.3°C kasi azali kosɛka pe kolɛla,Child has mild fever 37.3°C but laughing and playing,,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M095,Nazali na fiɛvɛrɛ ya 38.9°C pe mpasi makasi ya mabɔkɔ,Fever 38.9°C and severe joint pain,,High Fever,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-M013,Libumu ya nse na nga ezali kobeta makasi,Lower abdomen beating hard,,Abdominal Pain,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-E002,Mwana ya bambula moko azali na mpema mabe pe elongi ezali kobongola,"1-year-old severe breathing difficulty, cyanosis",,Infant Resp Emergency,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L104,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L058,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L135,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L191,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-E014,Nazali na mbeba makasi mpenza na moto pe miso mibale ezali kobungabungana,"Very severe wound on head, both eyes going blurry",,Head Trauma,Emergency,5,Critical,Translated,3/3,Val,Native speaker validated
+LMT-L235,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L188,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L205,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L276,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L237,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M099,Litoyi na nga ezali kobeta makasi pe nazali koyoka mabe,Ear beating hard and feeling unwell,,Ear Infection,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L343,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L140,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L129,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L141,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L150,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M028,Nazali na boloko oyo etɛlɛmaka te ya bambula mibale,Diarrhea that won't stop for two days,,Severe Diarrhea,Moderate,3,Moderate,Translated,3/3,Test,Native speaker validated
+LMT-L159,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L059,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L242,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L335,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L223,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L324,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L222,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L158,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L171,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L314,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L355,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L429,Nzoto na nga ezali na mingayi ya moke,Body has mild itching,,Skin Irritation,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L438,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L298,Estomac na nga eza faible yango nazali kolya moke,"Stomach feels weak, eating little","Estomac faible, je mange peu",Appetite Loss,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E103,"Mwana ya bambula moko amɛlɛki mbuma ya nzete, azali kolɛla te nzoka azali mpe kolya te","1-year-old swallowed berry, not crying but also not eating","Enfant de 1 an a avalé une baie, ne pleure pas mais ne mange plus",Foreign Body Airway,Emergency,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L090,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L339,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L394,Crampes ya moke na loboko,Mild arm twitching,Légères crampes au bras,Fatigue,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L031,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L328,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L114,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-L075,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-E020,Nazali na mpema mabe pe motema na nga ezali kobeta nokinoki,Breathing difficulty and heart racing,,Cardiac Emergency,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-E105,"Napɛsamaki na nyoka na zamba, nazali koyoka malamu nzoka mbeba ezali kotamba","Bitten by snake in the forest, feeling okay but wound is spreading","Mordu par un serpent, se sent bien mais la plaie s'étend",Poisoning,Emergency,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L271,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L069,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L365,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E012,Nzoto na nga ezali na moto makasi mpenza pe nazali koyoka motɔ na moto,Extremely high temperature and fire feeling in my head,,Heat Stroke,Emergency,5,Critical,Community-Generated,3/3,Test,Native speaker validated
+LMT-L336,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L262,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L444,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L228,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-M083,Liboko na nga ekomi kobomba pe kobeta sima ya kobwɛa,Arm swollen and beating after falling,,Injury,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-E005,"Nakatiwa na mobɛlɛ, makila ezali kobima","Stabbed by knife, blood coming out",,Trauma,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L015,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L048,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L107,Mongongo na nga ezali na mpasi moke,Throat mildly aching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L315,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L246,Nazali na mpasi ya nzoto moke pe kolemba,Mild pain and fatigue,Légère douleur et fatigue,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L233,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M079,Nazali na mpasi makasi ya moto oyo etɛlɛmaka te,Severe headache that won't stop,,Severe Headache,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-L118,"Nazali kolya mingi te, nzoto eza mwa moke (mukie) malamu","Eating little, body feels mostly okay","Je mange peu, le corps va à peu près bien",Appetite Loss,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L036,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L280,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L201,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M026,Nzoto na nga ezali na kolemba sima ya kolya biloko ya mabe,Body weakening after eating bad food,,Food Poisoning,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-M094,Nazali na kosukosu ya lokɔtá pe makila moke,Coughing mucus and a little blood,,Hemoptysis,Moderate,4,Serious,Translated,3/3,Test,Native speaker validated
+LMT-M097,Nazali kolɛla oyo etɛlɛmaka te ya bambula mibale,Vomiting that won't stop for two days,,Severe Vomiting,Moderate,3,Moderate,Synthetic,3/3,Val,Native speaker validated
+LMT-L322,Nzoto na nga ezali na mingayi ya moke,Body has mild itching,,Skin Irritation,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-M064,Mbeba ya nzoto na nga ezali kobomba,Body wound looking up (infected),,Wound Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L252,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L018,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L250,Nazali na kolemba pe kolya moke likolo ya koluka mosala,Tired and eating little due to job searching,,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L079,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L347,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L184,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L072,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M037,Libumu na nga ezali kobeta makasi pe nazali kolɛla,Abdomen beating hard and vomiting,,Abdominal Pain,Moderate,3,Moderate,Translated,3/3,Val,Native speaker validated
+LMT-E004,Nazali na boloko ya makila mingi pe nazali na kolemba,"Diarrhea with a lot of blood, weakening",,Hemorrhagic Diarrhea,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L169,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Synthetic,3/3,Val,Native speaker validated
+LMT-E031,Mobali ya bambula 55 azali na mpasi ya ntolo pe liboko moko ezali bolɔtɔ,55-year-old man with chest pain and one arm numb,,Myocardial Infarction,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L037,"Nazali na kosukosu ya moke na ntongo, nzoto malamu, na zemi","Mild morning cough, body fine, pregnant","Légère toux le matin, corps en forme, enceinte",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M009,Mwana azali na kolemba pe azali kolya te ya bambula mibale,Child weak and not eating for two days,,Malnutrition,Moderate,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-L211,Libumu ezali kobaluka moke nsima ya kolya biloko ya bien te,Mild stomach bloating after eating junk food,Légères ballonnements après avoir mangé de la malbouffe,Mild GI Symptom,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L108,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L304,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L038,Mama ya bambula 58 azali na mpasi moke ya moto,58-year-old woman has mild headache,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L370,Litoyi na nga ezali kobeta moke tango nazali kolala,Mild ear ringing when sleeping,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L449,Nazali na boloko moke kasi nazali koyikama yango,Mild diarrhea but manageable,,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L047,Liboko na nga ekɔtaki na ntaba moke,Arm got slightly scratched,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M040,"Mbwa akataki nga na liboko, makila ezali kobima pe nazali kobanga","Dog bit my arm, blood coming and I'm scared",,Animal Bite,Moderate,4,Serious,Community-Generated,3/3,Val,Native speaker validated
+LMT-L040,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L127,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L266,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L174,Nazali na kosukosu ya moke pe mpema moke,Mild cough and mild breathing,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L374,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L168,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L225,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L363,"Mwana azali na mpasi moke ya litoyi moko, azali kolɛla moke","Child beats one ear, mild crying",,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-M072,Libumu na nga ezali kobeta makasi pe nazali kolɛla,Abdomen beating hard and vomiting,,Abdominal Pain,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L346,Nazali na mpasi moke ya moto likolo ya kobangabanga,Mild headache from anxiety,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L288,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L293,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M078,Liboko na nga ekomi kobomba pe kobeta sima ya kobwɛa,Arm swollen and beating after falling,,Injury,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L183,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L166,Nazali na mpasi moke pe nzoto ezali moto likolo ya kolya malamu te,Mild pain and body heat after not eating well,,Appetite Loss,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L430,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L113,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M011,Libumu ya mwasi ya zemi ezali kobomba pe kobeta,Pregnant woman's stomach swollen and beating,,Obstetric Emergency,Moderate,4,Serious,Translated,3/3,Train,Native speaker validated
+LMT-L386,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L181,Nazali na mpema moke oyo ezali kobeta moke,One breath slightly beating,,Mild Cough,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-M086,Nazali na mawa makasi pe makanisi ya koboma nga moko ezali koya,Great sadness and thoughts of self-harm coming,,Mental Health Crisis,Moderate,4,Serious,Community-Generated,3/3,Train,Native speaker validated
+LMT-L307,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L134,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L435,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L042,Nazali na kolemba pe kolya moke likolo ya koluka mosala,Tired and eating little due to job searching,,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L425,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-L436,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-M008,Likambo ya mpema na nga ezali kokola,Breathing problem worsening,,Dyspnea,Moderate,3,Moderate,Synthetic,3/3,Test,Native speaker validated
+LMT-L236,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L115,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L155,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L422,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L376,Crampes ya moke na loboko,Mild arm twitching,Légères crampes au bras,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L152,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L351,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L249,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-E016,Nazali na zemi pe makila ezali kobima mingi mpenza,I am pregnant and a lot of blood coming out,,Obstetric Hemorrhage,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-M043,Nazali na tension pe mpasi makasi ya moto,I have hypertension and severe headache,,Hypertension,Moderate,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-L062,Nazali na kosukosu ya moke pe mpema moke,Mild cough and mild breathing,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L395,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L144,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L348,"Mwana ya bambula 4 azali na mpema moke, azali kolɛla te","4-year-old mild breathing, not crying",,Child Cough,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L341,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L289,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L054,Nazali na mpema moke oyo ezali kobeta moke,One breath slightly beating,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L096,Nazali na mpasi moke ya mosuni ya mokongo sima ya mosala ya kala,Mild back muscle pain after routine work,,Lumbar Pain,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-E102,"Mobali ya bambula 70 azali na makanisi oyo ezali suka te, azali koloba ndenge ya kala te",70-year-old man confused and not talking normally,"Homme de 70 ans confus, ne parle plus normalement",Syncope,Emergency,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L154,Nazali na mpasi moke ya mosuni ya mokongo sima ya mosala ya kala,Mild back muscle pain after routine work,,Lumbar Pain,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L045,Nazali kolala mabe pe nazali koyoka kolemba,Sleeping badly and feeling tired,,Fatigue,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L143,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L190,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L147,Mongongo ezali ya kokufa ndambu,Slightly hoarse voice,Voix légèrement enrouée,Hoarseness,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E001,Mwana ya bambula misato amɛlɛki mayi ya kobeba pe azali na kolemba,"3-year-old drank chemical water, now weak",,Chemical Ingestion,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-E033,Nzoto na nga ekómi bolɔtɔ nokinoki sima ya kolya pe mpema na nga ezali mabe,Rapidly numb body after eating and breathing badly,,Anaphylaxis,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L279,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L035,"Mwana azali na bolɔtɔ moke na miso, azali kolɛla te","Child has mild eye irritation, not crying",,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L157,Nzoto na nga ezali na mingayi ya moke,Body has mild itching,,Skin Irritation,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L198,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L255,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L427,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L417,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L311,Liboko na nga ezali bolɔtɔ moke likolo ya kobɛtama,Mild arm numbness from being hit,,Minor Injury,Low,1,Minimal,Synthetic,3/3,Test,Native speaker validated
+LMT-L148,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L340,Lino moko ya nga ezali na mpasi ya moke,One tooth mildly aching,,Dental Pain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L426,Libumu ezali kobaluka moke nsima ya kolya biloko ya bien te,Mild stomach bloating after eating junk food,Légères ballonnements après avoir mangé de la malbouffe,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-E008,Mwasi ya zemi ya sanza sambo azali na makila kobima pe mpasi makasi ya libumu,8-month pregnant woman bleeding and severe abdominal pain,,Obstetric Emergency,Emergency,4,Serious,Synthetic,3/3,Train,Native speaker validated
+LMT-L437,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L234,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Synthetic,3/3,Val,Native speaker validated
+LMT-L411,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L291,Moto na nga ezali kobeta moke tango nazali kolya,Head mildly beats when eating,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L007,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-E036,Nazali na pɛtɛlɛ makasi likolo ya fiɛvɛrɛ pe komilinga,Severe dehydration from fever and fainting,,Severe Dehydration,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L357,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L167,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L180,"Mwana azali na kosukosu ya moke, kasi azali ko liya malamu","Child has mild cough, eating well","L'enfant a une légère toux, mange bien",Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L207,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L216,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-M018,Litoyi na nga ezali kobeta makasi pe nazali koyoka mabe,Ear beating hard and feeling unwell,,Ear Infection,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L023,Nazali na mpasi ya nzoto moke pe kolemba,Mild pain and fatigue,Légère douleur et fatigue,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L203,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M091,Nazali na bokono ya TB pe nazali na kosukosu makasi,I have TB and severe cough,,Tuberculosis,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-M063,Nzoto na nga ezali kobeta pe nazali na fiɛvɛrɛ ya 39°C,Body beating and fever 39°C,,High Fever,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L099,Nazali koyoka miso kokwanza mwa moke,Mild eye twitch,Légères démangeaisons oculaires,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L060,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L443,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M007,Nazali na fiɛvɛrɛ ya 38.9°C pe mpasi makasi ya mabɔkɔ,Fever 38.9°C and severe joint pain,,High Fever,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L364,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-L193,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L326,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L440,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L247,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M042,Mwasi ya zemi azali na mapɛpɛ pe azali koyoka mabe,Pregnant woman dizzy and feeling unwell,,Obstetric Emergency,Moderate,4,Serious,Community-Generated,3/3,Train,Native speaker validated
+LMT-L267,Miso na ngai ezali kolɛmba likolo ya kotánga mingi,Eyes tired from too much reading,Yeux fatigués à force de trop lire,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L379,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L388,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M035,Nazali na bobangi mingi pe motema na nga ezali kobeta nokinoki,Very anxious and heart racing,,Anxiety,Moderate,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L164,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L415,Kolemba moke na miso tango nazali kotanga,Slight eye strain while reading,Légère fatigue oculaire en lisant,Eye Strain,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M020,Liboko na nga ezali kobimisa mayi likolo ya mbeba mabe,Arm releasing fluid from bad wound,,Wound Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L172,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-E114,Mobali ya bambula 55 azali na mapɛpɛ pe liboko moko ezali bolɔtɔ moke banda ntongo,55-year-old man dizzy with one arm slightly numb since morning,Homme de 55 ans étourdi avec un bras légèrement engourdi depuis le matin,Myocardial Infarction,Emergency,3,Moderate,Translated,3/3,Test,Native speaker validated
+LMT-E101,"Mwasi ya zemi ya sanza motoba abwɛi na nzela, azali koloba malamu kasi libumu ezali kobeta","7-month pregnant woman fell on the road, talking fine but abdomen tightening","Femme enceinte de 7 mois tombée, parle bien mais abdomen se contracte",Obstetric Emergency,Emergency,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-E009,Nakobɛtamaki makasi na moto pe miso na nga ekómi kobungabungana,"Hit hard on head, eyes becoming blurry",,Head Trauma,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-L350,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E115,Mwana ya bambula minei abwɛi na nzete pe azali koloba ete moto na ye ezali kobeta moke,4-year-old fell from a tree and says head hurts a little,"Enfant de 4 ans tombé d'un arbre, dit avoir légèrement mal à la tête",Head Trauma,Emergency,3,Moderate,Community-Generated,3/3,Test,Native speaker validated
+LMT-L199,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L352,Mpasi moke na mokongo tango nazali kotambola,Mild back pain when walking,Légère douleur au dos en marchant,Lumbar Pain,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L083,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L097,"Mwana azali na bolɔtɔ moke na miso, azali kolɛla te","Child has mild eye irritation, not crying",,Eye Strain,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-L447,Pasi moke na mokongo soki nazali ya kofanda,Back twitching while sitting,Légère douleur au dos en position assise,Lumbar Pain,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L371,Nazali na fiɛvɛrɛ ya 37.8°C pe nazali kolya malamu,Fever 37.8°C and eating well,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L281,Libumu na nga ezali kobaluka moke sima ya kolya,Mild bloating after eating,,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M004,Nazali na mpasi makasi pe nazali kolala mabe,Severe pain and sleeping badly,,Severe Pain,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L325,Mwana azali na kosukosu ya moke sima ya kopola na mvula,Child has mild body cough after rain,L'enfant a une légère toux après la pluie,Child Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L074,"Nazali na zemi ya sanza mibale, nzoto na nga ezali malamu","Two months pregnant, body feeling fine",,Prenatal Check,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L001,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Synthetic,3/3,Test,Native speaker validated
+LMT-L331,"Mobali ya bambula 65 azali na kolemba moke, azali kolya malamu","65-year-old man mildly tired, eating well",,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-M044,Nazali na bokono ya motema pe nazali na kolemba makasi,I have heart condition and very weak,,Cardiac Risk,Moderate,4,Serious,Translated,3/3,Test,Native speaker validated
+LMT-L049,Bolingo na nga ezali kobetabeta moke,Joint mildly twitching,,Joint Pain,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-L421,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-M049,Miso na nga ezali na mpasi makasi pe nazali komona mabe,Eyes beating hard and vision impaired,,Eye Condition,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L175,Nazali koyoka liboko na nga te sima ya kopema moke,Arm mildly numb after resting a while,Légère insensibilité au bras après s'être reposé un moment,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L092,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L344,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L218,Nazali na mpasi ya nzoto moke pe kolemba,Mild pain and fatigue,Légère douleur et fatigue,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L404,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L369,Nazali na kosukosu ya moke na ntongo,Mild morning cough,Légère toux le matin,Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M082,Nazali na bokono ya TB pe nazali na kosukosu makasi,I have TB and severe cough,,Tuberculosis,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L309,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L017,Nazali kotoka moke nsima ya mosala,Mild body sweating after work,Légère transpiration corporelle après le travail,Fatigue,Low,2,Mild,Synthetic,3/3,Test,Native speaker validated
+LMT-L085,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E006,Nzoto na nga ezali kobetabeta pe motema na nga ezali kobeta nokinoki mpenza,Body shaking and heart beating very fast,,Cardiac Emergency,Emergency,5,Critical,Translated,3/3,Train,Native speaker validated
+LMT-L320,Nazali kolala mabe pe nazali koyoka kolemba,Sleeping badly and feeling tired,,Fatigue,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L401,Nzoto na nga ezali malamu ndenge ya kala,Body feels the same as usual,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M071,Mwana azali na kolemba pe azali kolya te ya bambula mibale,Child weak and not eating for two days,,Malnutrition,Moderate,4,Serious,Synthetic,3/3,Test,Native speaker validated
+LMT-L124,Nazali na bobangi moke kasi nazali koyoka malamu,Slightly anxious but feeling fine,,Anxiety,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-M023,Mwana ya bambula mibale azali na fiɛvɛrɛ ya 39°C pe azali kolɛla,2-year-old with fever 39°C and vomiting,,Pediatric Fever,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L146,Fievre moke mpe pasi moke na liboko,Mild fever and slight arm pain,Légère fièvre et légère douleur au bras,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L419,"Mwana azali na mpema moke, azali kolɛla te pe azali kosɛka","Child mild breathing, not crying and is playful",,Mild Cough,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L372,Litoyi na nga ezali kobeta moke pe kobetabeta,Ear mildly beating and twitching,,Tinnitus,Low,1,Minimal,Translated,3/3,Val,Native speaker validated
+LMT-E017,Mobali azali komilinga pe abwɛi fulu,Man fainting and completely falling,,Syncope,Emergency,5,Critical,Community-Generated,3/3,Train,Native speaker validated
+LMT-L406,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M030,Mbeba ya liboko na nga ezali kobima makila ya bambula mibale,Arm wound bleeding for two days,,Wound Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L165,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L053,Lolemo na nga ezali kobetabeta moke,Tongue slightly twitching,,Sore Throat,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L409,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M010,Nzoto na nga ezali kobetabeta pe mpema ezali kobimisa,Body twitching and breathing out,,Dyspnea,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L434,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-E043,"Bakómi kobeta nga, nauti kobwɛa pe makila ewutaki na moto","Being attacked, fell and blood from head",,Assault Trauma,Emergency,5,Critical,Synthetic,3/3,Train,Native speaker validated
+LMT-M101,Mwana azali na fiɛvɛrɛ pe azali kolya te ya bambula mibale,Child with fever not eating for two days,,Pediatric Fever,Moderate,3,Moderate,Translated,3/3,Test,Native speaker validated
+LMT-L377,Nazali na mpasi ya nzoto moke pe kolemba,Mild pain and fatigue,Légère douleur et fatigue,Fatigue,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L202,Mwana azali na fiɛvɛrɛ moke 37.3°C kasi azali kosɛka pe kolɛla,Child has mild fever 37.3°C but laughing and playing,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L008,Fievre moke mpe pasi moke na liboko,Mild fever and slight arm pain,Légère fièvre et légère douleur au bras,Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L063,Nazali na mpema moke pe mpasi moke,Mild breathing and mild pain,,Mild Cough,Low,2,Mild,Translated,3/3,Val,Native speaker validated
+LMT-L093,Elongi na nga ezali na mbeba moke likolo ya moyi,Mild sun damage on face,,Sunburn,Low,1,Minimal,Synthetic,3/3,Train,Native speaker validated
+LMT-M005,Mwana azali na fiɛvɛrɛ pe azali kolya te ya bambula mibale,Child with fever not eating for two days,,Pediatric Fever,Moderate,3,Moderate,Synthetic,3/3,Train,Native speaker validated
+LMT-L400,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L327,"Nazali na fiɛvɛrɛ moke, 37.2°C","Mild body temperature, 37.2°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L176,Crampes ya moke na loboko,Mild arm twitching,Légères crampes au bras,Fatigue,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L349,Mwana azali na fiɛvɛrɛ moke 37.3°C kasi azali kosɛka pe kolɛla,Child has mild fever 37.3°C but laughing and playing,,Low-Grade Fever,Low,2,Mild,Translated,3/3,Test,Native speaker validated
+LMT-L261,"Mwana azali na fiɛvɛrɛ moke 37.4°C, azali kolɛla te","Child mild fever 37.4°C, not crying",,Low-Grade Fever,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L078,Mwana azali na bobangi ya moke likolo ya kelasi,Child slightly anxious about school,L'enfant légèrement anxieux à cause de l'école,Anxiety,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
+LMT-L077,Nazali na bobangi moke kasi nazali koyoka malamu,Slightly anxious but feeling fine,,Anxiety,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-M031,Nazali na bokono ya TB pe nazali na kosukosu makasi,I have TB and severe cough,,Tuberculosis,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-M067,Mwana ya bambula misato azali na mpema mabe pe azali kolɛla,3-year-old with bad breathing and vomiting,,Pediatric Fever,Moderate,3,Moderate,Community-Generated,3/3,Test,Native speaker validated
+LMT-L296,"Nazali na fiɛvɛrɛ moke, 37.5°C","Slight fever, 37.5°C","Légère fièvre, 37.5°C",Low-Grade Fever,Low,2,Mild,Community-Generated,3/3,Val,Native speaker validated
+LMT-L257,Libumu ezali kobaluka moke nsima ya kolya biloko ya bien te,Mild stomach bloating after eating junk food,Légères ballonnements après avoir mangé de la malbouffe,Mild GI Symptom,Low,2,Mild,Community-Generated,3/3,Test,Native speaker validated
+LMT-L057,"Mwana azali na mpasi moke ya litoyi moko, azali kolɛla moke","Child beats one ear, mild crying",,Tinnitus,Low,1,Minimal,Translated,3/3,Test,Native speaker validated
+LMT-L310,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L294,Mosuni ya moto na nga ezali kobetabeta moke,Mild head muscle twitching,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L285,Nzoto mwa pasi mukie (moke) sima ya kotambola mingi,Mild body ache from walking a lot,Légère douleur corporelle après beaucoup de marche,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L200,Nazali koyoka mingayi moke na esika oyo nakutaki,Mild tingling where I got hurt,,Minor Injury,Low,1,Minimal,Community-Generated,3/3,Test,Native speaker validated
+LMT-L034,Nazali kokanisa mingi pe nazali na mpasi moke ya moto,Thinking too much and got a headache,,Mild Headache,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L319,Nazali na kosukosu ya moke na ntongo,Mild morning cough,Légère toux le matin,Mild Cough,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L013,Nazali na kolɛmba nsima ya mosala ya molayi,Tired after long work,Fatigue après une longue journée de travail,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-L005,Mongongo ezali ya kokufa ndambu,Slightly hoarse voice,Voix légèrement enrouée,Hoarseness,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M074,Libumu ya nse na nga ezali kobeta makasi,Lower abdomen beating hard,,Abdominal Pain,Moderate,3,Moderate,Synthetic,3/3,Test,Native speaker validated
+LMT-L275,Nazali na kosukosu ya moke kasi nazali kotambola malamu,Mild body cough but walking fine,,Mild Cough,Low,2,Mild,Synthetic,3/3,Val,Native speaker validated
+LMT-L066,Nazali na mbeba moke na elongi na nga,Mild wound on my face,,Sunburn,Low,1,Minimal,Community-Generated,3/3,Val,Native speaker validated
+LMT-L106,"Nzoto na nga ezali malamu ndenge moko, nazali koyoka boni te","Body not twitching, I feel the same",,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L121,"Mpema na nga ezali na kokoso moke, kasi nazali koyoka malamu","Slight breathing, but feeling okay","Légère difficulté respiratoire, mais je me sens bien",Mild Cough,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L217,Nazali na mpasi ya nzoto moke pe kolemba,Mild pain and fatigue,Légère douleur et fatigue,Fatigue,Low,2,Mild,Synthetic,3/3,Train,Native speaker validated
+LMT-L450,"Mama na nga azali na mpasi moke ya nzoto, 37.6°C","My mother has mild body pain, 37.6°C",,Low-Grade Fever,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M038,Liboko na nga ezali na makila pe mbeba ezali kobomba,Arm with blood and wound inflammation,,Wound Infection,Moderate,3,Moderate,Translated,3/3,Train,Native speaker validated
+LMT-L318,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L067,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Community-Generated,3/3,Train,Native speaker validated
+LMT-M048,Nazali na mapɛpɛ pe bobangi,Dizziness and anxiety,,Anxiety,Moderate,1,Minimal,Translated,3/3,Train,Native speaker validated
+LMT-M105,Nazali na mpasi makasi pe nazali kolala te,Great pain and not sleeping,,Severe Pain,Moderate,3,Moderate,Community-Generated,3/3,Val,Native speaker validated
+LMT-L337,Liboko moko ya nga ezali bolɔtɔ moke likolo ya mosala,Mild numbness in one arm due to work,,Fatigue,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L195,Nazali na mpasi moke ya mongongo tango nazali kolya,Mild throat pain when eating,,Sore Throat,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-L019,Libumu ezali kobaluka moke nsima ya kolya biloko ya bien te,Mild stomach bloating after eating junk food,Légères ballonnements après avoir mangé de la malbouffe,Mild GI Symptom,Low,2,Mild,Translated,3/3,Train,Native speaker validated
+LMT-M055,Mongongo na nga ezali na mpasi makasi pe nazali kolya mabe,Throat hurting badly and eating poorly,,Tonsillitis,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-M032,Nazali na kolemba makasi pe mapɛpɛ ezali kokola,Severe weakness and dizziness worsening,,Severe Weakness,Moderate,3,Moderate,Community-Generated,3/3,Train,Native speaker validated
+LMT-L145,Nazali na mwa kozika ya moyi ya moke na maboko,Mild sunburn on my arms,Légère brûlure solaire sur mes bras,Sunburn,Low,1,Minimal,Community-Generated,3/3,Train,Native speaker validated
